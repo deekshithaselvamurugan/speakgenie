@@ -1,0 +1,6 @@
+flask
+flask-cors
+gtts
+python-dotenv
+requests
+git+https://github.com/openai/whisper.git

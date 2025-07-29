@@ -1,0 +1,5 @@
+[
+  { "ai": "Welcome! What do you want to buy today?" },
+  { "expected": "banana", "ai": "One banana coming right up!" },
+  { "expected": "apple", "ai": "Here’s a fresh apple for you!" }
+]
